@@ -19,4 +19,5 @@ body {
   background-color: aqua;
   border: 1px solid black;
   box-sizing: border-box;
+  cursor: pointer;
 }
